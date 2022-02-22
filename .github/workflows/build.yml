@@ -32,4 +32,4 @@ jobs:
            python train.py
       - name: Test with pytest
         run: |
-          pytest
+          pytest 
