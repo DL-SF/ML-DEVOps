@@ -1,3 +1,4 @@
+import torch
 from torch.autograd import gradcheck
 
 # gradcheck takes a tuple of tensors as input, check if your gradient
